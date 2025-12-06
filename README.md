@@ -4,7 +4,7 @@
   <img src="instalign.png" width="256" alt="Instalign Logo">
 </p>
 
-Have you ever wondered who stopped following you on Instagram, or who you're following that isn't following you back? Tracking this manually is a tedious nightmare—scrolling through thousands of names, cross-referencing lists, and keeping mental notes is exhausting and prone to error. It takes the fun out of connecting with people.
+Have you ever wondered who stopped following you on Instagram, or who is following you but you aren't following them back? Tracking this manually is a tedious nightmare—scrolling through thousands of names, cross-referencing lists, and keeping mental notes is exhausting and prone to error. It takes the fun out of connecting with people.
 
 **Instalign** solves this instantly. It is a lightweight Instagram companion that scans your followers and following lists, highlights mismatches, and lets you quickly follow back or unfollow selected accounts with ease.
 

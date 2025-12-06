@@ -32,6 +32,7 @@ You don't need to give your instagram credentials or access to any third party t
    ```bash
    pip install pytest-playwright
    playwright install
+   pip install tqdm
    ```
 
 ## Usage
